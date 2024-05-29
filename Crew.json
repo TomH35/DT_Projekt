@@ -1,0 +1,50 @@
+[
+  {
+    "first_name": "Emily",
+    "last_name": "Johnson",
+    "role": "Stewardess",
+    "Cabins": {
+      "ticket_id": 54321,
+      "cabin_name": "B201",
+      "cabin_number": 201,
+      "deck": "B"
+    },
+    "Lifeboats": {
+      "capacity": 40,
+      "launchTime": "2024-05-25T14:45:00Z",
+      "survivorCount": 38
+    }
+  },
+  {
+    "first_name": "Michael",
+    "last_name": "Brown",
+    "role": "Engineer",
+    "Cabins": {
+      "ticket_id": 98765,
+      "cabin_name": "E101",
+      "cabin_number": 101,
+      "deck": "E"
+    },
+    "Lifeboats": {
+      "capacity": 30,
+      "launchTime": "2024-05-25T17:00:00Z",
+      "survivorCount": 25
+    }
+  },
+  {
+    "first_name": "Laura",
+    "last_name": "Smith",
+    "role": "Nurse",
+    "Cabins": {
+      "ticket_id": 87654,
+      "cabin_name": "D201",
+      "cabin_number": 201,
+      "deck": "D"
+    },
+    "Lifeboats": {
+      "capacity": 35,
+      "launchTime": "2024-05-25T17:30:00Z",
+      "survivorCount": 30
+    }
+  }
+]
